@@ -3,8 +3,6 @@ STS-OAUTH2-USERNAMEPASSWORD-CREDENTIALS-SERVER-TO-SERVER-NOGATEWAY-DEMO1
 
 # Authorization Server with Spring Security
 
-The content of this repository is explained in my Youtube channel.
-
 https://youtube.com/playlist?list=PLab_if3UBk9-AArufc8CryyhSDVqkNT-U
 
 ## Run on Localhost
